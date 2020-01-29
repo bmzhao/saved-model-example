@@ -1,0 +1,5 @@
+.idea
+.vscode
+build
+mnist_model
+cmake-build-debug
